@@ -22,3 +22,4 @@ const calculate = (function(radius,logic){
 console.log(calculate(radius,area))
 console.log(radius.map(area))
 
+
