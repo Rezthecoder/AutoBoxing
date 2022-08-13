@@ -1,5 +1,2 @@
-# area
-# area
-# area
-# ew
-# ew
+#I am the beginner in IT
+
